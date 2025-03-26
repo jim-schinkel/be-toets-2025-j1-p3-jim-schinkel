@@ -14,8 +14,9 @@
             <a href="<?= URLROOT; ?>/sneakers/index">Overzicht sneakers</a> |
             <a href="<?= URLROOT; ?>/horloges/index">Overzicht horloges</a> |
             <a href="<?= URLROOT; ?>/speakers/index">Overzicht speakers</a> |
-            <a href="<?= URLROOT; ?>/torens/index">Overzicht torens</a>
-            <a href="<?= URLROOT; ?>/zangeres/index">Overzicht zangeressen</a>
+            <a href="<?= URLROOT; ?>/torens/index">Overzicht torens</a> |
+            <a href="<?= URLROOT; ?>/zangeres/index">Overzicht zangeressen</a> |
+            <a href="<?= URLROOT; ?>/ufc/index">UFC men's pound for pound</a>
 
 
         </div>
